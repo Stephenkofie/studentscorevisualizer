@@ -96,6 +96,7 @@ It allows users to upload a CSV file containing student data, processes the info
 ---
 
 ## 📂 Project Structure
+```
 src/
 │
 ├── Main.java # Entry point of the application
@@ -105,6 +106,7 @@ src/
 ├── StatisticsCalculator.java # Computes statistics
 ├── ChartGenerator.java # Generates charts
 └── StudentGUI.java # User interface
+```
 
 ---
 
